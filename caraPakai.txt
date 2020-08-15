@@ -1,0 +1,2 @@
+Cara Menggunakan Sc premi
+python bot.py (currency) 
